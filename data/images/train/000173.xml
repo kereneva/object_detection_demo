@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000173.jpg</filename>
+	<path>C:\Users\lenovo\DL-CV-TF-Keras_Resources\6-Transfer_Learning\darkflow\train\images\000173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lymphocyte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>140</ymin>
+			<xmax>122</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>
